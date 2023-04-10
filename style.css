@@ -45,3 +45,24 @@ body{
     box-shadow: 0 0 20px white;
     background-color: grey;
   }
+
+    @media (max-width:982px ) {
+
+
+.container {
+    display: inline;
+    width: 50%;
+    margin: auto;
+}
+.btn{
+    margin: 25px;
+    display: inline-block;
+    height: 155px;
+    width: 115px;
+    border: 10px solid black;
+    border-radius: 20%;
+    position: relative;
+    top: 100px;
+}
+    }
+    
